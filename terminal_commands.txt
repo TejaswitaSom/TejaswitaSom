@@ -1,0 +1,9 @@
+cd name  --> move to a directory
+cd ..  --> move back to parent directory
+ls --> list files&folders
+ls -al
+mkdir
+touch
+cat 
+nano
+code . --> to open vs code
