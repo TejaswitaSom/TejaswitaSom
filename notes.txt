@@ -10,3 +10,5 @@
 10. git branch name  --> create new branch
 11. git branch --> view the list of branches
 12. git is a version control system
+13. git show commitHash --> details of a particular commit
+14. git branch -d branch_name  --> delete a branch
